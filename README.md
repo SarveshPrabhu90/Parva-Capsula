@@ -1,6 +1,8 @@
 # Parva-Capsula
 GI Smart Pill- A non-invasive approach to gut health & gastrointestinal diagnosis
 
+_For implementation and research details please go to the Repo: SarveshPrabhu90/GI-Imagery-Analysis-Models._
+
 This will be a swallowable capsule with an IoT sensor and a micro camera, replacing the traditional highly invasive colonoscopy and endoscopy procedures. 
 
 The smart pill is the size of a vitamin pill that contains an IoT sensor, a micro camera, onboard diagnostics tools, and runs on state-of-the-art nanotechnology. 

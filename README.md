@@ -14,3 +14,6 @@ Additionally, the micro camera takes several pictures and short videos and sends
 Our neutral network-powered deep learning algorithm further analyzes the images and videos outlining potential inflammation, cancer symptoms, ulcerative colitis, food fermentation in the gut or microbiome activity. 
 
 Through research at the HPCC systems, Parva's model is able to achieve an industry leading accuracy for diagnosis.
+
+Presentation Link: https://youtu.be/34G8BZ1UWH8
+
